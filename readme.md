@@ -1,7 +1,7 @@
 ## Werllen's Lab work.
 -----------------------------------
-#Part1:
+# Part1:
 ![Demo](display/GoslingLoveLace_demo1.gif)
 -----------------------------------
-#Part2:
+# Part2:
 ![Demo](display/GoslingLoveLace_demo2.gif)
